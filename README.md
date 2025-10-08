@@ -25,6 +25,8 @@ npm install
 npx playwright install
 ```
 
+📖 **[Guia de Início Rápido](./QUICKSTART.md)** - Tutorial passo a passo para começar!
+
 ### Executar a Aplicação
 
 ```bash
